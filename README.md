@@ -1,4 +1,6 @@
 # CreditCardFraudAnalytics
+Dataset used: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
 Predictive Modeling to detect fraud credit card transactions using Python.
 Predictive modeling is implemented to detect fraudulent credit card transactions, with maximum accuracy, in a dataset with 284807 rows and 31 columns.
 This is a classification problem, where the target variable Class (0/1) has to be classified as either Not Fraud (0) or Fraud (1) transaction.
